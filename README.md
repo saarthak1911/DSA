@@ -14,6 +14,11 @@ Java-Collections-Framework/
 │   ├── Level1_Basics.java
 │   ├── Level2_BasicLogic.java
 │   └── ...
+├── String/
+│   ├── README.md
+│   ├── Level_1.java
+│   ├── Level_2.java
+│   └── ...
 │
 ├── LinkedList/
 │   ├── README.md
@@ -49,12 +54,13 @@ Java-Collections-Framework/
 | # | Topic | Status | Details |
 |---|-------|--------|---------|
 | 1 | ArrayList | ✅ Done | [View →](./ArrayList/README.md) |
-| 2 | LinkedList | 🔜 Coming Soon | — |
-| 3 | Stack | 🔜 Coming Soon | — |
-| 4 | Queue | 🔜 Coming Soon | — |
-| 5 | HashSet | 🔜 Coming Soon | — |
-| 6 | LinkedHashSet | 🔜 Coming Soon | — |
-| 7 | HashMap | 🔜 Coming Soon | — |
+| 2 | String | ✅ Done | [View →](./String/README.md) |
+| 3 | LinkedList | 🔜 Coming Soon | — |
+| 4 | Stack | 🔜 Coming Soon | — |
+| 5 | Queue | 🔜 Coming Soon | — |
+| 6 | HashSet | 🔜 Coming Soon | — |
+| 7 | LinkedHashSet | 🔜 Coming Soon | — |
+| 8 | HashMap | 🔜 Coming Soon | — |
 
 More collections (TreeSet, TreeMap, PriorityQueue, Deque, etc.) will be added over time.
 
